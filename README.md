@@ -382,7 +382,7 @@ The following are important areas organisations should consider when preparing f
 
 The following are official resources for understanding the DPDP framework:
 
-1. [Digital Personal Data Protection Act, 2023 – Official Gazette](https://www.dpdpa.com/DPDPA_2023_official.pdf)
+1. [Digital Personal Data Protection Act, 2023 – Official Gazette](https://egazette.gov.in/WriteReadData/2023/248045.pdf)
 2. [Digital Personal Data Protection Rules, 2025 – Official Gazette](https://egazette.gov.in/WriteReadData/2025/267650.pdf)
 3. [DPDP Act Commencement Notification – Official Gazette](https://egazette.gov.in/WriteReadData/2025/267647.pdf)
 4. [DPDP Reference Website – DPDPA.com](https://www.dpdpa.com/)
